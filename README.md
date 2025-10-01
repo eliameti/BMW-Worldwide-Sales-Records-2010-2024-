@@ -1,0 +1,1 @@
+Analyzing BMW Worldwide Sales (2010–2024) from Kaggle. Load + assess data, clean if needed, and produce 4 univariate + 2 multivariate plots (time/region/model). Includes code, figures, and a simple baseline forecast. Source: https://www.kaggle.com/datasets/ahmadrazakashif/bmw-worldwide-sales-records-20102024
