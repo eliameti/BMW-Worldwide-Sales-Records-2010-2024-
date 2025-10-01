@@ -1,0 +1,28 @@
+# Secrets
+kaggle.json
+.kaggle/
+*.env
+
+# Data / large files (keep only a small placeholder)
+data/**
+!data/README.md
+*.zip
+*.parquet
+
+# Notebook junk
+.ipynb_checkpoints/
+
+# Python cache/build
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Virtual envs
+.venv/
+venv/
